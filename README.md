@@ -1,1 +1,2 @@
 # bottle
+transparent and breakable
